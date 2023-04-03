@@ -1,2 +1,2 @@
 # LocalizedMC
-We working localization in minecraft mods
+We working localization on minecraft mods
