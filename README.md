@@ -1,1 +1,2 @@
-# LocalizedMC.github.io
+# LocalizedMC
+We working localization in minecraft mods
